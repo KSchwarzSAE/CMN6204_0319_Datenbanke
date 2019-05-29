@@ -1,0 +1,13 @@
+C:\Users\arbeit\source\repos\CMN6204_0319_Datenbanken\CMN6204_0319_Datenbanken\bin\Debug\CMN6204_0319_Datenbanken.exe.config
+C:\Users\arbeit\source\repos\CMN6204_0319_Datenbanken\CMN6204_0319_Datenbanken\bin\Debug\CMN6204_0319_Datenbanken.exe
+C:\Users\arbeit\source\repos\CMN6204_0319_Datenbanken\CMN6204_0319_Datenbanken\bin\Debug\CMN6204_0319_Datenbanken.pdb
+C:\Users\arbeit\source\repos\CMN6204_0319_Datenbanken\CMN6204_0319_Datenbanken\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\arbeit\source\repos\CMN6204_0319_Datenbanken\CMN6204_0319_Datenbanken\bin\Debug\Google.Protobuf.dll
+C:\Users\arbeit\source\repos\CMN6204_0319_Datenbanken\CMN6204_0319_Datenbanken\bin\Debug\MySql.Data.dll
+C:\Users\arbeit\source\repos\CMN6204_0319_Datenbanken\CMN6204_0319_Datenbanken\bin\Debug\Google.Protobuf.xml
+C:\Users\arbeit\source\repos\CMN6204_0319_Datenbanken\CMN6204_0319_Datenbanken\bin\Debug\MySql.Data.xml
+C:\Users\arbeit\source\repos\CMN6204_0319_Datenbanken\CMN6204_0319_Datenbanken\obj\Debug\CMN6204_0319_Datenbanken.csprojAssemblyReference.cache
+C:\Users\arbeit\source\repos\CMN6204_0319_Datenbanken\CMN6204_0319_Datenbanken\obj\Debug\CMN6204_0319_Datenbanken.csproj.CoreCompileInputs.cache
+C:\Users\arbeit\source\repos\CMN6204_0319_Datenbanken\CMN6204_0319_Datenbanken\obj\Debug\CMN6204_0319_Datenbanken.csproj.CopyComplete
+C:\Users\arbeit\source\repos\CMN6204_0319_Datenbanken\CMN6204_0319_Datenbanken\obj\Debug\CMN6204_0319_Datenbanken.exe
+C:\Users\arbeit\source\repos\CMN6204_0319_Datenbanken\CMN6204_0319_Datenbanken\obj\Debug\CMN6204_0319_Datenbanken.pdb

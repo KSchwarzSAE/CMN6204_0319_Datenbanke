@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CMN6204_0319_Datenbanken", "CMN6204_0319_Datenbanken\CMN6204_0319_Datenbanken.csproj", "{8389E452-2F1D-4378-AFD4-ADDB2B6F46D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrategieSpiel", "StrategieSpiel\StrategieSpiel.csproj", "{889FB86E-525C-4D7B-BFD3-181DB7BDBAE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8389E452-2F1D-4378-AFD4-ADDB2B6F46D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8389E452-2F1D-4378-AFD4-ADDB2B6F46D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8389E452-2F1D-4378-AFD4-ADDB2B6F46D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8389E452-2F1D-4378-AFD4-ADDB2B6F46D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{889FB86E-525C-4D7B-BFD3-181DB7BDBAE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{889FB86E-525C-4D7B-BFD3-181DB7BDBAE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{889FB86E-525C-4D7B-BFD3-181DB7BDBAE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{889FB86E-525C-4D7B-BFD3-181DB7BDBAE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E7EE79B-EAD9-46F9-8AE1-F74EF3D9B89A}
+	EndGlobalSection
+EndGlobal

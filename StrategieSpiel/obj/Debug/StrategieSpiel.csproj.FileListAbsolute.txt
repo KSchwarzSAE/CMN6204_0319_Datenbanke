@@ -1,0 +1,13 @@
+C:\Users\arbeit\source\repos\CMN6204_0319_Datenbanken\StrategieSpiel\bin\Debug\StrategieSpiel.exe.config
+C:\Users\arbeit\source\repos\CMN6204_0319_Datenbanken\StrategieSpiel\bin\Debug\StrategieSpiel.exe
+C:\Users\arbeit\source\repos\CMN6204_0319_Datenbanken\StrategieSpiel\bin\Debug\StrategieSpiel.pdb
+C:\Users\arbeit\source\repos\CMN6204_0319_Datenbanken\StrategieSpiel\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\arbeit\source\repos\CMN6204_0319_Datenbanken\StrategieSpiel\bin\Debug\Google.Protobuf.dll
+C:\Users\arbeit\source\repos\CMN6204_0319_Datenbanken\StrategieSpiel\bin\Debug\MySql.Data.dll
+C:\Users\arbeit\source\repos\CMN6204_0319_Datenbanken\StrategieSpiel\bin\Debug\Google.Protobuf.xml
+C:\Users\arbeit\source\repos\CMN6204_0319_Datenbanken\StrategieSpiel\bin\Debug\MySql.Data.xml
+C:\Users\arbeit\source\repos\CMN6204_0319_Datenbanken\StrategieSpiel\obj\Debug\StrategieSpiel.csprojAssemblyReference.cache
+C:\Users\arbeit\source\repos\CMN6204_0319_Datenbanken\StrategieSpiel\obj\Debug\StrategieSpiel.csproj.CoreCompileInputs.cache
+C:\Users\arbeit\source\repos\CMN6204_0319_Datenbanken\StrategieSpiel\obj\Debug\StrategieSpiel.csproj.CopyComplete
+C:\Users\arbeit\source\repos\CMN6204_0319_Datenbanken\StrategieSpiel\obj\Debug\StrategieSpiel.exe
+C:\Users\arbeit\source\repos\CMN6204_0319_Datenbanken\StrategieSpiel\obj\Debug\StrategieSpiel.pdb
